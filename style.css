@@ -1,0 +1,131 @@
+top-container {
+    text-align: center;
+  }
+  h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+  }
+  h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    text-align: center;
+  }body{
+  background-image: url("Untitled.jpeg");
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+}element {
+    margin: 0px auto;
+      margin-top: 0px;
+      margin-right: auto;
+      margin-bottom: 0px;
+      margin-left: auto;
+  }
+  
+  lement {
+    margin: 0px auto;
+  }
+  table {
+    font-size: 30px;
+    font-family: "Sofia", sans-serif;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 3px 3px 3px #ababab;
+  }  font-size: 50px;
+  font-family: "Sofia", sans-serif;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-shadow: 3px 3px 3px #ababab;
+}
+* {
+  box-sizing: border-box;
+}  padding: 1rem;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+justify-content: space-around;
+}
+footer {
+width: 100%;
+margin: 0;
+padding: 0;
+background-color: rgb(40, 42, 93);
+}
+* {
+box-sizing: border-box;
+}
+body {
+font-family: Arial;
+}
+body {
+font-family: "Lato", sans-serif;
+}
+margin
+border
+padding
+1004×272
+1036×304
+static
+box-sizing
+border-box
+display
+flex
+float
+none
+line-height
+normal
+position
+static
+z-index
+auto
+padding: 1rem;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+justify-content: space-around;
+}
+footer {
+width: 100%;
+margin: 0;
+padding: 0;
+background-color: rgb(40, 42, 93);
+}
+* {
+box-sizing: border-box;
+}
+body {
+font-family: Arial;
+}
+body {
+font-family: "Lato", sans-serif;
+}
+margin
+border
+padding
+1004×272
+1036×304
+static
+box-sizing
+border-box
+display
+flex
+float
+none
+line-height
+normal
+position
+static
+z-index
+auto
